@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZoneZero</string>
+    <string name="search_bar_hint">Klinik ara...</string>
+    <string name="clear_search">Clear search</string>
+    <string name="female">Kadın</string>
+    <string name="male">Erkek</string>
+    <string name="doctor_image">Doctor image</string>
+    <string name="premium">Premium</string>
+    <string name="appointment_screen">Randevu Ekranı</string>
+    <string name="payment_screen">Ödeme Ekranı</string>
+    <string name="buy_premium">Premium Paket Al</string>
+    <string name="make_an_appointment">Randevu Al</string>
+    <string name="user_not_found">Kullanıcı bulunamadı.</string>
+    <string name="account_icon">Account icon</string>
+    <string name="arrow_forward">Arrow forward</string>
+</resources>

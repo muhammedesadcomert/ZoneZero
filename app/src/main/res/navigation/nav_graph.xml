@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/doctorListFragment">
+
+    <fragment
+        android:id="@+id/doctorListFragment"
+        android:name="com.muhammedesadcomert.zonezero.ui.doctor.DoctorListFragment"
+        android:label="Doktorlar"
+        tools:layout="@layout/fragment_doctor_list">
+        <action
+            android:id="@+id/action_doctorListFragment_to_doctorDetailFragment"
+            app:destination="@id/doctorDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/doctorDetailFragment"
+        android:name="com.muhammedesadcomert.zonezero.ui.doctor.DoctorDetailFragment"
+        android:label="Doktor Bilgileri"
+        tools:layout="@layout/fragment_doctor_detail">
+        <argument
+            android:name="doctor"
+            app:argType="com.muhammedesadcomert.zonezero.data.model.Doctor" />
+        <action
+            android:id="@+id/action_doctorDetailFragment_to_appointmentFragment"
+            app:destination="@id/appointmentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/appointmentFragment"
+        android:name="com.muhammedesadcomert.zonezero.ui.appointment.AppointmentFragment"
+        tools:layout="@layout/fragment_appointment">
+        <argument
+            android:name="premium_or_free"
+            app:argType="string" />
+    </fragment>
+</navigation>
