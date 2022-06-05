@@ -18,12 +18,7 @@ A doctor appointment app by Mobillium.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/46245749/172042859-1b1c15f4-a7d0-4605-bb27-e5a8f7b2808c.png" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/46245749/172042970-be14555d-30cd-4642-ada4-980ac6a6a4b9.png" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/46245749/172042861-9d3a2308-96b6-436e-b967-07da1cb67541.png" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/46245749/172042874-3dd46403-3022-45d1-80c1-fe622d960ea9.png" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/46245749/172042866-d8c7da0d-66a5-4aa2-8168-c2691d1ad483.png" width="30%" height="30%"/>
-<img src="https://user-images.githubusercontent.com/46245749/172042879-34f22fad-04b4-4f1c-bf37-0890e9d41b1a.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/46245749/172042859-1b1c15f4-a7d0-4605-bb27-e5a8f7b2808c.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/172042970-be14555d-30cd-4642-ada4-980ac6a6a4b9.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/172042861-9d3a2308-96b6-436e-b967-07da1cb67541.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/172042874-3dd46403-3022-45d1-80c1-fe622d960ea9.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/172042866-d8c7da0d-66a5-4aa2-8168-c2691d1ad483.png" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/46245749/172042879-34f22fad-04b4-4f1c-bf37-0890e9d41b1a.png" width="30%" height="30%"/>
 
 ## License
 
