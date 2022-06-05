@@ -57,13 +57,6 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
-    // OkHttp
-    // Define a BOM and its version
-    implementation platform("com.squareup.okhttp3:okhttp-bom:4.9.3")
-    // Define any required OkHttp artifacts without version
-    implementation 'com.squareup.okhttp3:okhttp'
-    implementation 'com.squareup.okhttp3:logging-interceptor'
-
     // Picasso
     implementation 'com.squareup.picasso:picasso:2.71828'
 
