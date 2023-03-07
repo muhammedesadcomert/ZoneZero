@@ -1,6 +1,6 @@
 # ZoneZero
 
-A doctor appointment app by Mobillium.
+A doctor appointment app was made for the internship application to Mobillium.
 
 ## 🛠 Tech Stack
 
